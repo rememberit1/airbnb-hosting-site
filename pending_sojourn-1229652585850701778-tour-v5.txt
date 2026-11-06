@@ -1,0 +1,5 @@
+/workspace/airbnb/hosting/up_sojourn-1229652585850701778-tour-v5@3_0.js
+/workspace/airbnb/hosting/up_sojourn-1229652585850701778-tour-v5@3_1.js
+/workspace/airbnb/hosting/up_sojourn-1229652585850701778-tour-v5@3_2.js
+/workspace/airbnb/hosting/up_p_sojourn-1229652585850701778-tour-v5@3.js
+/workspace/airbnb/hosting/deploy.js

@@ -1,0 +1,12 @@
+[
+ {"photo":"/workspace/airbnb/photos/992797056467937258/07.jpg","dir":"lr","caption":"Living room","trans":"fade"},
+ {"clip":"/workspace/airbnb/hf/dcottage_hero.mp4","caption":null,"trans":"fade"},
+ {"photo":"/workspace/airbnb/photos/992797056467937258/06.jpg","dir":"rl","caption":null,"trans":"fade"},
+ {"photo":"/workspace/airbnb/photos/992797056467937258/08.jpg","dir":"lr","caption":null,"trans":"fade"},
+ {"photo":"/workspace/airbnb/photos/992797056467937258/09.jpg","dir":"rl","caption":null,"trans":"fade"},
+ {"photo":"/workspace/airbnb/photos/992797056467937258/03.jpg","dir":"lr","caption":"Dining","trans":"whip"},
+ {"photo":"/workspace/airbnb/photos/992797056467937258/02.jpg","dir":"rl","caption":"Kitchen","trans":"whip"},
+ {"photo":"/workspace/airbnb/photos/992797056467937258/10.jpg","dir":"lr","caption":"Staircase","trans":"whip"},
+ {"photo":"/workspace/airbnb/photos/992797056467937258/04.jpg","dir":"rl","caption":"Bedroom","trans":"whip"},
+ {"photo":"/workspace/airbnb/photos/992797056467937258/05.jpg","dir":"lr","caption":"Bedroom","trans":"fade"}
+]

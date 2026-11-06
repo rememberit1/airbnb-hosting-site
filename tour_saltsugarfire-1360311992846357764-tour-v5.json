@@ -1,0 +1,27 @@
+[
+ {
+  "photo": "/workspace/airbnb/photos/1360311992846357764/01.jpg",
+  "caption": "Living room",
+  "trans": "fade"
+ },
+ {
+  "photo": "/workspace/airbnb/photos/1360311992846357764/03.jpg",
+  "caption": null,
+  "trans": "whip"
+ },
+ {
+  "photo": "/workspace/airbnb/photos/1360311992846357764/04.jpg",
+  "caption": "Kitchen",
+  "trans": "whip"
+ },
+ {
+  "photo": "/workspace/airbnb/photos/1360311992846357764/12.jpg",
+  "caption": "Bedroom",
+  "trans": "whip"
+ },
+ {
+  "photo": "/workspace/airbnb/photos/1360311992846357764/14.jpg",
+  "caption": "Bathroom",
+  "trans": "whip"
+ }
+]

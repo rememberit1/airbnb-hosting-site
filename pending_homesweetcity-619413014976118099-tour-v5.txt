@@ -1,0 +1,6 @@
+/workspace/airbnb/hosting/up_homesweetcity-619413014976118099-tour-v5_0.js
+/workspace/airbnb/hosting/up_homesweetcity-619413014976118099-tour-v5_1.js
+/workspace/airbnb/hosting/up_homesweetcity-619413014976118099-tour-v5_2.js
+/workspace/airbnb/hosting/up_homesweetcity-619413014976118099-tour-v5_3.js
+/workspace/airbnb/hosting/up_p_homesweetcity-619413014976118099-tour-v5.js
+/workspace/airbnb/hosting/deploy.js

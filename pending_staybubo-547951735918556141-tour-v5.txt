@@ -1,0 +1,6 @@
+/workspace/airbnb/hosting/up_staybubo-547951735918556141-tour-v5_0.js
+/workspace/airbnb/hosting/up_staybubo-547951735918556141-tour-v5_1.js
+/workspace/airbnb/hosting/up_staybubo-547951735918556141-tour-v5_2.js
+/workspace/airbnb/hosting/up_staybubo-547951735918556141-tour-v5_3.js
+/workspace/airbnb/hosting/up_p_staybubo-547951735918556141-tour-v5.js
+/workspace/airbnb/hosting/deploy.js

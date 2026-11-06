@@ -1,0 +1,6 @@
+/workspace/airbnb/hosting/up_maisondupont-1224663610356454797-tour-v5@2_0.js
+/workspace/airbnb/hosting/up_maisondupont-1224663610356454797-tour-v5@2_1.js
+/workspace/airbnb/hosting/up_maisondupont-1224663610356454797-tour-v5@2_2.js
+/workspace/airbnb/hosting/up_maisondupont-1224663610356454797-tour-v5@2_3.js
+/workspace/airbnb/hosting/up_p_maisondupont-1224663610356454797-tour-v5@2.js
+/workspace/airbnb/hosting/deploy.js

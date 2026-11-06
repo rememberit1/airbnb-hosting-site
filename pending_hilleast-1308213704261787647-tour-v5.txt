@@ -1,0 +1,6 @@
+/workspace/airbnb/hosting/up_hilleast-1308213704261787647-tour-v5@2_0.js
+/workspace/airbnb/hosting/up_hilleast-1308213704261787647-tour-v5@2_1.js
+/workspace/airbnb/hosting/up_hilleast-1308213704261787647-tour-v5@2_2.js
+/workspace/airbnb/hosting/up_hilleast-1308213704261787647-tour-v5@2_3.js
+/workspace/airbnb/hosting/up_p_hilleast-1308213704261787647-tour-v5@2.js
+/workspace/airbnb/hosting/deploy.js
